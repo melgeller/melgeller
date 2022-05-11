@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Silvia. 👋</h1>
-<div align="center"><img width="250px" src="https://i.gifer.com/QRPP.gif" /></div>
+<div align="center"><img width="250px" src="https://64.media.tumblr.com/065942c57338088fbed5ef271317a775/tumblr_mxibnn4mLb1sgviwfo1_500.gifv" /></div>
 <h1 align="center">Future Full Stack Developer. Photographer 📷.</h1>
 <h2 align="center">videogames lover / artist.</h2>
 
