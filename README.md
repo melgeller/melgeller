@@ -4,6 +4,15 @@
 <h2 align="center">videogames lover / artist.</h2>
 
 <br />
+
+<p align ="center">Hi 👋🏻! My name is Silvia, I am a photographer from Murcia living in Madrid.
+
+<p align ="center">I started playing on a Macintosh LC with FreeHand and Photoshop at a young age
+
+<p align ="center">I like videogames🎮, photography and art. 
+
+<p align ="center">I'm in a podcast 🎤 about videogames and live stream. </p>
+
 <div align="center">
  
 💻 I’m a Junior Full Stack Developer 
