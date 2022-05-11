@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Silvia. 👋</h1>
-<div align="center"><img width="250px" src="https://64.media.tumblr.com/fd9874264d332c87d228bf05043ba430/4a0e8aa9f3a7cd19-24/s540x810/7eb6e67ed56b6d7e925d1ac2412f58b823838826.gifv" /></div>
+<div align="center"><img width="350px" src="https://64.media.tumblr.com/fd9874264d332c87d228bf05043ba430/4a0e8aa9f3a7cd19-24/s540x810/7eb6e67ed56b6d7e925d1ac2412f58b823838826.gifv" /></div>
 <h1 align="center">Future Full Stack Developer. Photographer 📷.</h1>
 <h2 align="center">videogames lover / artist.</h2>
 
