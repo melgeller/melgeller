@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Silvia. 👋</h1>
-<div align="center"><img width="250px" src="https://wifflegif.com/gifs/681432-heather-mason-sh3-gif" /></div>
+<div align="center"><img width="250px" src="https://i.gifer.com/PLiW.mp4" /></div>
 <h1 align="center">Future Full Stack Developer. Photographer 📷.</h1>
 <h2 align="center">videogames lover / artist.</h2>
 
