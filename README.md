@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Silvia. 👋</h1>
-<div align="center"><img width="250px" src="https://i.gifer.com/PLiW.mp4" /></div>
+<div align="center"><img width="250px" src="https://i.gifer.com/PLiW.gif" /></div>
 <h1 align="center">Future Full Stack Developer. Photographer 📷.</h1>
 <h2 align="center">videogames lover / artist.</h2>
 
