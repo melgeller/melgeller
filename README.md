@@ -1,11 +1,14 @@
-<h1 align="center">Hi, I'm Silvia. 👋</h1>
+<h1 align="center">Hi, I'm Silvia 👋</h1>
 <div align="center"><img width="350px" src="https://64.media.tumblr.com/fd9874264d332c87d228bf05043ba430/4a0e8aa9f3a7cd19-24/s540x810/7eb6e67ed56b6d7e925d1ac2412f58b823838826.gifv" /></div>
-<h1 align="center">Future Full Stack Developer. Photographer 📷.</h1>
-<h2 align="center">videogames lover / artist.</h2>
+<h2 align="center">💻 Future Full Stack Developer</h1>
+<h2 align="center">📷Photographer</h1>
+<h2 align="center">🎮videogames lover / 🖌artist.</h2>
 
 <br />
 
 <p align ="center">Hi 👋🏻! My name is Silvia, I am a photographer from Murcia living in Madrid.
+ 
+ <p align ="center">Currently studying on Full Stack Developer
 
 <p align ="center">I started playing on a Macintosh LC with FreeHand and Photoshop at a young age
 
@@ -15,7 +18,6 @@
 
 <div align="center">
  
-💻 I’m a Junior Full Stack Developer 
 
 See my work here: https://cargocollective.com/melgeller
 
