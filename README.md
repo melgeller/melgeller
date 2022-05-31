@@ -3,15 +3,11 @@
 
 <br />
 
-<p align ="left">Hi 👋🏻! My name is Silvia, I am a photographer from Murcia living in Madrid.
+<p align ="center">Hi 👋🏻! My name is Silvia, I am a photographer from Murcia living in Madrid.
  
- <p align ="left">Currently studying on Full Stack Developer
+ <p align ="center">Currently studying on Full Stack Developer
 
-<p align ="left">I started playing on a Macintosh LC with FreeHand and Photoshop at a young age
-
-<p align ="right">I like videogames🎮, photography and art. 
-
-<p align ="right">I'm in a podcast 🎤 about videogames and live stream. </p>
+<p align ="center">I like videogames🎮, photography and art. 
 
 <div align="center">
  
