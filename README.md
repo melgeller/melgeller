@@ -1,20 +1,17 @@
 <h1 align="center">Hi, I'm Silvia 👋</h1>
 <div align="center"><img width="400px" src="https://64.media.tumblr.com/2cbc7cc4907a9156976befa586680a73/4dfb1b17988fcb29-f7/s540x810/92c185dccb526dfe5eca8d6e6e4e5c96b2dadef3.gifv" /></div>
-<h2 align="center">💻 Future Full Stack Developer</h1>
-<h2 align="center">📷Photographer</h1>
-<h2 align="center">🎮videogames lover / 🖌artist.</h2>
 
 <br />
 
-<p align ="center">Hi 👋🏻! My name is Silvia, I am a photographer from Murcia living in Madrid.
+<p align ="left">Hi 👋🏻! My name is Silvia, I am a photographer from Murcia living in Madrid.
  
- <p align ="center">Currently studying on Full Stack Developer
+ <p align ="left">Currently studying on Full Stack Developer
 
-<p align ="center">I started playing on a Macintosh LC with FreeHand and Photoshop at a young age
+<p align ="left">I started playing on a Macintosh LC with FreeHand and Photoshop at a young age
 
-<p align ="center">I like videogames🎮, photography and art. 
+<p align ="right">I like videogames🎮, photography and art. 
 
-<p align ="center">I'm in a podcast 🎤 about videogames and live stream. </p>
+<p align ="right">I'm in a podcast 🎤 about videogames and live stream. </p>
 
 <div align="center">
  
