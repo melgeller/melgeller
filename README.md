@@ -3,9 +3,9 @@
 
 <br />
 
-<p align ="center">Hi 👋🏻! My name is Silvia, I am a photographer from Murcia living in Madrid.
+<p align ="center">Hi 👋🏻! My name is Silvia, I am from Murcia living in Madrid.
  
- <p align ="center">Currently studying on Full Stack Developer
+ <p align ="center">Full Stack Developer and Photographer
 
 <p align ="center">I like videogames🎮, photography and art. 
 
