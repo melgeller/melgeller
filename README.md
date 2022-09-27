@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Silvia 👋</h1>
-<div align="center"><img width="400px" src="https://64.media.tumblr.com/2cbc7cc4907a9156976befa586680a73/4dfb1b17988fcb29-f7/s540x810/92c185dccb526dfe5eca8d6e6e4e5c96b2dadef3.gifv" /></div>
 
 <br />
 
