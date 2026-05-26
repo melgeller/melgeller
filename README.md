@@ -2,7 +2,7 @@
 
 <br />
 
-<p align ="center">Hi 👋🏻! My name is Silvia, I am from Murcia living in Madrid.
+<p align ="center">Hi 👋🏻! My name is Silvia, I am from Murcia.
  
  <p align ="center">Full Stack Developer and Photographer
 
